@@ -38,6 +38,10 @@ Usage
 
 see [test/usage.mjs](test/usage.mjs)
 
+```javascript
+import crObAss from 'create-object-and-assign';
+```
+
 
 <!--#toc stop="scan" -->
 
